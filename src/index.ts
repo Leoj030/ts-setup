@@ -1,3 +1,1 @@
-
-
-console.log("TypeScript setup complete!");
+console.log('TypeScript setup complete!');
